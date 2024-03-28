@@ -1,7 +1,7 @@
-@font-face { font-family: monofonto_rg; src: url(../monofonto_rg.otf); } 
+/*@font-face { font-family: monofonto_rg; src: url(../monofonto_rg.otf); }*/
 
 body {
-    font-family: monofonto_rg;
+    /*font-family: "Comic Sans MS";*/
     margin-left: 4px;
 }
 

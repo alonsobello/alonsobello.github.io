@@ -1,4 +1,4 @@
-@font-face { font-family: monofonto_rg; src: url(../monofonto_rg.otf); } 
+/*@font-face { font-family: monofonto_rg; src: url(../monofonto_rg.otf); } */
 
 * {
     box-sizing: border-box;
@@ -6,7 +6,7 @@
   
   body {
     margin: 0;
-    font-family: monofonto_rg;
+    /*font-family: "Comic Sans MS";*/
   }
   
   .header {
